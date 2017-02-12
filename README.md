@@ -3,6 +3,8 @@ https://dribbble.com/shots/2841784-Introducing-New-Interface-for-Slack-Login-Scr
 
 This is just a working prototype of the app.
 
+![app design](https://cloud.githubusercontent.com/assets/12230220/22864992/0b32d382-f129-11e6-9597-ee542fb3c163.jpg)
+
 Current Functionalities:
 - Navigation Bar (Top)
 - Chat Messages Layout including the chat bubbles and inserting new
